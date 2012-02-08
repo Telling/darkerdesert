@@ -1,5 +1,5 @@
 " Vim color file
-" Edit of the darkerdesert theme
+" Edit of the darkerdesert scheme
 " to suite my personal needs
 
 set background=dark
