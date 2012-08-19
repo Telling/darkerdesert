@@ -1,4 +1,4 @@
-" Vim color file
+"Vim color file
 " Edit of the darkerdesert scheme
 " to suite my personal needs
 
@@ -32,6 +32,7 @@ hi Visual          guifg=#d0d0d0       guibg=#6d8824       gui=none
 hi WarningMsg      guifg=salmon
 hi ErrorMsg        guifg=white         guibg=#b03030
 hi Pmenu           guifg=white         guibg=darkgreen
+hi ColorColumn                         guibg=grey10
 
 hi Comment         guifg=#5080a0
 hi Constant        guifg=#a16261
