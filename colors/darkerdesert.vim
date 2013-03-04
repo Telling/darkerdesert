@@ -14,6 +14,7 @@ let g:colors_name="softblack"
 hi Normal          guifg=#9090a0       guibg=#121212
 
 hi Cursor          guifg=grey30        guibg=#b3b3df       gui=bold
+hi CursorLine      guifg=white         guibg=darkred
 hi VertSplit       guifg=grey50        guibg=#505050       gui=none
 hi Folded          guifg=gold3         guibg=#252525
 hi FoldColumn      guifg=gold3         guibg=#252525
@@ -33,6 +34,7 @@ hi WarningMsg      guifg=salmon
 hi ErrorMsg        guifg=white         guibg=#b03030
 hi Pmenu           guifg=white         guibg=darkgreen
 hi ColorColumn                         guibg=grey10
+hi SignColumn                          guibg=#121212
 
 hi Comment         guifg=#5080a0
 hi Constant        guifg=#a16261
@@ -43,4 +45,4 @@ hi Type            guifg=#655723
 hi Special         guifg=#c9b37e
 hi Ignore          guifg=grey40
 hi Error           guifg=white         guibg=#b03030
-hi Todo            guifg=#802c13       guibg=#c3bc44       gui=bold
+hi Todo            guifg=red           guibg=#CDCD00       gui=bold
